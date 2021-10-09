@@ -40,7 +40,7 @@ export default function Home() {
               <div className="flex justify-center">
 
                 <a
-                  href="https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2052WeekendsOfSideProjects%20Challenge%20starting%20this%20Weekend!%20Learn%20More%20and%20Join%20me!%20hey%20@yhdesai&url=52wosp.com&hashtags=52WOSP&hashtags=52WeekendsOfSideProjects&hashtags=BuildInPublic"
+                  href="https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2052WeekendsOfSideProjects%20Challenge%20starting%20this%20Weekend!%20Learn%20More%20and%20Join%20me!%20hey%20@yhdesai&url=52wosp.com&hashtags=52WOSP,52WeekendsOfSideProjects,BuildInPublic"
                   target="_blank"
                   rel="noopener noreferrer">
                   <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">Tweet to commit to the challenge</button>
