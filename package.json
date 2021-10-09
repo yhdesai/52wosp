@@ -6,9 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@analytics/simple-analytics": "^0.3.1",
+    "analytics": "^0.7.15",
     "next": "latest",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "use-analytics": "^0.0.5"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
